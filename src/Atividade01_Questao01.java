@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Atividade01_questao01 {
+public class Atividade01_Questao01 {
 	public static void main(String[] args) {
 		Scanner entrada = new Scanner(System.in);               //criei um objeto scanner para ler oq o usuario digitar.
 		int A, B;                                               //declarei duas variaveis int.
